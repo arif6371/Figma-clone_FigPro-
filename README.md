@@ -68,7 +68,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/figma-ts.git
+git clone- https://github.com/JavaScript-Mastery-Pro/figma-ts.git](https://github.com/arif6371/Figma-clone_FigPro-.git
 cd figma-ts
 ```
 
@@ -798,8 +798,4 @@ export const PinnedThread = ({ thread, onFocus, ...props }: Props) => {
 <br />
 <br />
 
-**Accelerate your professional journey with the Expert Training program**
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-#
