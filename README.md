@@ -794,6 +794,29 @@ export const PinnedThread = ({ thread, onFocus, ...props }: Props) => {
 - [Components](https://drive.google.com/file/d/1bha-40vlGMIPW9bTRUgHD_SEmT9ZA38S/view?usp=sharing)
 
 ## <a name="more">🚀 More</a>
+For your GitHub description under the "More" section for a Figma clone named **FigPro** with features like live cursor functionality and undo/redo history, you could use content like the following:
+
+---
+
+## 🔍 More About FigPro
+
+**FigPro** is a powerful design tool built to mirror the capabilities of Figma while introducing additional features that enhance real-time collaboration and creative workflows.
+
+### 🚀 Key Features:
+- **Live Cursor Functionality:** Collaborate seamlessly with real-time cursor tracking. See exactly where your teammates are working and make design edits together.
+- **Undo/Redo History:** Stay in control of your design journey with comprehensive undo/redo support, making it easy to experiment without losing progress.
+- **Multi-user Collaboration:** Collaborate with multiple users on the same project in real time with no lag, just like in Figma.
+- **Version History:** Track design changes over time with automatic version history, allowing you to revisit or restore any iteration of your project.
+- **Vector Networks:** Easily create and edit complex vector shapes using an intuitive and responsive interface.
+- **Advanced Prototyping:** Bring your designs to life with interactions and transitions to simulate real app behavior.
+
+### 📦 Why Choose FigPro?
+FigPro is ideal for designers, developers, and teams looking for a robust, web-based design tool that supports high-level collaboration. Whether you're working on wireframes, user flows, or fully interactive prototypes, FigPro has you covered with its user-friendly interface and enhanced performance.
+
+Start creating with **FigPro** and experience a design tool that takes your creative process to the next level.
+
+---
+
 
 <br />
 <br />
