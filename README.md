@@ -1,6 +1,5 @@
 <h1>Hey👋 There Welcome To FigPro </h1>
 
-<h3>Figma In A.k Style</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
